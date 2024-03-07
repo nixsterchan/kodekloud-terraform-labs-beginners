@@ -1,1 +1,1 @@
-heheboi
+Just a simple repository for storing some of the templates used in the terraform kodekloud exercises alongside some notes.
