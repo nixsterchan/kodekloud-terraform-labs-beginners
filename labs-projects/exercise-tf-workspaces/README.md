@@ -1,0 +1,2 @@
+NOTES:
+1. Usage of workspaces in conjunction with map variables seem to be the defacto method of handling the need to provision the same kind of resources, albeit with slightly different variables such as name, region or ami.
